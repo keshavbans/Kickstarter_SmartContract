@@ -1,5 +1,6 @@
 # Npm files
-nonode_modules/
+node_modules
+.next
 
 package.json
 package-lock.json
