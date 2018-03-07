@@ -1,2 +1,5 @@
 # Npm files
 nonode_modules/
+
+package.json
+package-lock.json
